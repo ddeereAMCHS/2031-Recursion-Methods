@@ -10,8 +10,8 @@
   - One method should be called isEven and the other should be called isOdd
 - Inside the main method
   - Prompt the user for a number and call the factorial method with that number as a parameter
-    - Print the result
   - Prompt the user for a number and call the fibonacci method with that number as a parameter
-    - Print the result
   - Prompt the user for a number and call the isOdd method with that number as a parameter
-    - Print the "even" or "odd" depending on the result
+  - Print the result of the factorial method
+  - Print the result fibonacci method
+  - Print "even" or "odd" depending on the result of the isOdd method
