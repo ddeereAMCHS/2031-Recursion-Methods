@@ -15,3 +15,12 @@
   - Print the result of the factorial method
   - Print the result fibonacci method
   - Print "even" or "odd" depending on the result of the isOdd method
+
+Example Input:<br/>
+4<br/>
+4<br/>
+4<br/>
+Example Output:<br/>
+24<br/>
+3<br/>
+even
