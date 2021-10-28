@@ -16,11 +16,11 @@
   - Print the result fibonacci method
   - Print "even" or "odd" depending on the result of the isOdd method
 
-Example Input:<br/>
-4<br/>
-4<br/>
-4<br/>
-Example Output:<br/>
-24<br/>
-3<br/>
+Example Input:\
+4\
+4\
+4\
+Example Output:\
+24\
+3\
 even
