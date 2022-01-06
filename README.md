@@ -1,4 +1,4 @@
-# Recursion
+# Recursion Methods
 
 - Create a program called `RecursiveMethods.java`
 - Create a method that takes an integer n as input and calculates n factorial
