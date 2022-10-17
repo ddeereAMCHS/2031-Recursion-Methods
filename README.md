@@ -24,5 +24,5 @@ Example Input:\
 4\
 Example Output:\
 24\
-3\
+2\
 even
