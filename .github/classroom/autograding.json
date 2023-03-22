@@ -7,7 +7,7 @@
       "input": "4\r\n4\r\n4",
       "output": "24\r\n2\r\neven",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "5\r\n5\r\n5",
       "output": "120\r\n3\r\nodd",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "6\r\n6\r\n6",
       "output": "720\r\n5\r\neven",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -37,7 +37,7 @@
       "input": "10\r\n10\r\n10",
       "output": "3628800\r\n34\r\neven",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
