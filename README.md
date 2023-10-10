@@ -1,6 +1,6 @@
 # Recursion Methods
 
-## Due: Fri 10/21 at 11:59 PM
+## Due: Thur 10/12 at 11:59 PM
 
 - Create a program called `RecursiveMethods.java`
 - Create a method that takes an integer n as input and calculates n factorial
